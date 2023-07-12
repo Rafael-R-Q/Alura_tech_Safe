@@ -7,5 +7,17 @@ O dashboard pode ser acessado no link a seguir:
 https://app.powerbi.com/view?r=eyJrIjoiNzNmMzg0OGMtZmMwMi00MGEwLWIyZjEtMTQwZDdhOGM1OWIyIiwidCI6IjA2N2Q0YzdmLWRhYWItNDU1YS1hYzA2LWQyOTc2MGJiYjc5YSJ9
 
 <p align="center">
-  <img src="logo/Dashboard - Hermex - img.png">
+  <img src="Fotos/Dashboard - 1.png">
+</p>
+
+<p align="center">
+  <img src="Fotos/Apresentação - 1.png">
+</p>
+
+<p align="center">
+  <img src="Fotos/Apresentação - 2.png">
+</p>
+
+<p align="center">
+  <img src="Fotos/Apresentação - 3.png">
 </p>
